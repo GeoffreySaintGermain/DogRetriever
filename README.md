@@ -3,12 +3,6 @@
 DogRetriever is a SwiftUI-based iOS application that allows users to explore various dog breeds through a scrollable list and searchable text field. 
 By selecting a breed, users can view detailed characteristics and browse multiple images of each dog breed.
 
-![homescreen](https://github.com/user-attachments/assets/ddb726f8-c783-4bd2-9f30-6b09d019bad6)
-
-![dogpage](https://github.com/user-attachments/assets/c4147cf6-faaa-48cc-82bc-ac9fc8d46694)
-
-![dark](https://github.com/user-attachments/assets/411bb542-e408-4848-823d-9b31a119789a)
-
 ## Features
 
 - **Browse Dog Breeds:** Access a comprehensive list of dog breeds with quick search functionality and an auto-complete text field (case-insensitive).
@@ -27,3 +21,9 @@ By selecting a breed, users can view detailed characteristics and browse multipl
 ## Additional Notes
 
 This project emphasizes a minimal external dependency approach, focusing on native iOS development practices.
+
+![homescreen](https://github.com/user-attachments/assets/ddb726f8-c783-4bd2-9f30-6b09d019bad6)
+
+![dogpage](https://github.com/user-attachments/assets/c4147cf6-faaa-48cc-82bc-ac9fc8d46694)
+
+![dark](https://github.com/user-attachments/assets/411bb542-e408-4848-823d-9b31a119789a)
