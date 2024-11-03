@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApiBaseUrl</key>
+	<string>https://api.thedogapi.com/v1</string>
+	<key>ApiKey</key>
+	<string>live_VGVQytMpshAsduGXBPTMwlSR0F2M8Xt9ReSATcyvhplXD1QdD9sDpG3uyQrm6cZz</string>
+</dict>
+</plist>
